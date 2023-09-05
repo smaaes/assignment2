@@ -1,0 +1,13 @@
+.nav-area{
+    display: flex;
+}
+.nav-area div{
+    display: flex;
+}
+.nav-image{
+    padding-left: 30px;
+}
+.menu-area{
+    padding-left: 400px;
+    text-align: right;
+}
