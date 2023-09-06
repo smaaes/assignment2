@@ -11,3 +11,115 @@
     padding-left: 400px;
     text-align: right;
 }
+.t-color{
+    color: rgb(243, 7, 7);
+    margin-left: 20px;
+}
+.t-color2{
+    color: black;
+}
+/* Main area */
+.main-section-one{
+    display: flex;
+}
+.main-heading-area{
+    padding-left:30px;
+    padding-top: 100px;
+}
+.main-heading-area button{
+    background-color: crimson;
+    border-radius: 20px;
+    height: 60px;
+    width: 100px;
+    color: aliceblue;
+    border: none;
+    font-size: medium;
+    font-weight: 500;
+}
+.main-image-area{
+    padding-left: 200px;
+}
+/* main area second section starting */
+.main-section-two{
+    display: flex;
+    padding: 20px;
+}
+.main-heading-area-two button{
+    margin-left: 250px;
+    background-color: crimson;
+    border-radius: 20px;
+    height: 60px;
+    width: 100px;
+    color: aliceblue;
+    border: none;
+    font-size: medium;
+    font-weight: 500;
+}
+/* main third section starting */
+.heading-area-three{
+    text-align: center;
+}
+.online-games-image-area{
+    display: flex;
+}
+.online-games-image-area p{
+    margin: 20px;
+}
+.online-games-image-area img{
+    height: 300px;
+    width: 250px;
+    margin: 30px;
+}
+/* main fourth section starting */
+.main-section-fourth{
+    display: flex;
+    padding-left: 180px;
+}
+.main-heading-area-four{
+    padding-top: 100px;
+}
+.main-image-area-four{
+    padding-left: 300px;
+}
+.main-image-area-four img{
+    height: 400px;
+    width: 350px;
+    position: absolute;
+}
+.main-small-image{
+    padding-top: 200px;
+    padding-left: 380px;
+    position: absolute; 
+}
+.main-small-image img{
+    height: 300px;
+    width: 250px;
+}
+/* main fifth section starting */
+.main-section-fifth{
+    display: flex;
+    margin-top: 300px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.main-image-area-fifth{
+    padding-right: 0px;
+}
+.main-image-area-fifth img{
+    height: 400px;
+    width: 350px;
+    position: absolute;
+}
+.main-small-image-two{
+    padding-left: 300px;
+    padding-top: 300px;
+    position: absolute;
+}
+.main-heading-area-fifth{
+    margin-left: 700px;
+    margin-top: 200px;
+}
+.main-small-image-two img{
+    height: 250px;
+    width: 250px;
+}
