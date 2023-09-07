@@ -4,7 +4,7 @@
 .nav-area div{
     display: flex;
 }
-.nav-image{
+.nav-image1{
     padding-left: 30px;
 }
 .menu-area{
@@ -122,4 +122,72 @@
 .main-small-image-two img{
     height: 250px;
     width: 250px;
+}
+/* main sixth section starting */
+.main-section-sixth{
+    margin-top: 200px;
+    padding-top: 100px;
+    padding-left: 100px;
+    display: flex;
+    background-color: rgb(234, 10, 129);
+    color: aliceblue;
+}
+.main-image-area-sixth img{
+    height: 600px;
+    width: 600px;
+}
+.main-heading-area-sixth button {
+    height: 40px;
+    width: 200px;
+    border-radius:10px;
+    border:none;
+    margin-left: 30px;
+}
+.list-item{
+    display: flex;
+}
+/* main last area starting */
+.main-last-section div{
+    display: flex;
+    padding-left: 50px;
+}
+.last-icon-area ul{
+    display: flex;
+}
+.last-icon-area ul p{
+    padding-left: 10px;
+}
+/* footer design */
+.main-footer{
+    background-color: black;
+    color: aliceblue;
+    padding-bottom: 50px;
+}
+.footer-heading-area div{
+    display: flex;
+}
+.nav-image2{
+    padding-left: 500px;
+    padding-top: 100px;
+}
+.t-color3{
+    color: aliceblue;
+}
+.paragraph-write{
+    display: flex;
+    padding-left: 300px;
+    padding-top: 50px;
+}
+.footer-icon-area{
+    padding-left:350px;
+}
+.footer-icon-area img{
+    padding: 20px;
+}
+.footer-condition-area{
+    display: flex;
+    padding-left: 300px;
+}
+.last-line p{
+    text-align: center;
 }
